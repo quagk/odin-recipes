@@ -1,3 +1,3 @@
 # odin-recipes
-Odin Project curriculum website, showcasing some recipes that've caught my
-eye.
+Odin Project curriculum website, showcasing recipes that've caught my
+eye in some shows and movies.
